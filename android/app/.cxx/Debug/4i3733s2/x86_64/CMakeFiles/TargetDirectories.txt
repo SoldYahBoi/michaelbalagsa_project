@@ -1,0 +1,2 @@
+C:/Users/Balagsa/MSBJ_App/msbj_app_midterm/msbj_app_midterm/android/app/.cxx/Debug/4i3733s2/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Balagsa/MSBJ_App/msbj_app_midterm/msbj_app_midterm/android/app/.cxx/Debug/4i3733s2/x86_64/CMakeFiles/rebuild_cache.dir
